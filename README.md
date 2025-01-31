@@ -17,8 +17,9 @@ This simple API returns my registered email address, the current datetime in ISO
 }
 ```
 ##Example Usage
+```
 curl https://hng12-api-je29.onrender.com
-
+```
 #Clone the repository:
 ```
 git clone https://github.com/Fhayz/HNG12-api/tree/master
